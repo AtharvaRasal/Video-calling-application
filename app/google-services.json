@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "766744380809",
+    "project_id": "crystal-call",
+    "storage_bucket": "crystal-call.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766744380809:android:73d5c51e5ad0fa16728d58",
+        "android_client_info": {
+          "package_name": "com.example.crystalcall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLmTRX_3E2DJm8f-cM9_69WuFKTHUuP1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
